@@ -3,4 +3,8 @@ const names = {
   lastName: 'Damico',
 };
 
-module.exports = names;
+function nome(){
+  console.log(names);
+}
+
+module.exports = nome;

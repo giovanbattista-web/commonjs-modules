@@ -1,3 +1,6 @@
-const names = require('./modules/names.js');
-console.log(names);
+const nome = require('./modules/names.js');
+
+nome();
+
+
 
