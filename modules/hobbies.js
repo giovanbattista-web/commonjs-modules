@@ -5,7 +5,7 @@ const hobbies = [
   }
 ];
     
-function hobby(hobbyOne, hobbyTwo, hobbyThree){
+function hobby(){
     console.log(hobbies);
   }
   

@@ -3,7 +3,7 @@ const names = {
   lastName: 'Damico',
 };
 
-function nome(firstName, lastName){
+function nome(){
   console.log(names);
 }
 
