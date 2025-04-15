@@ -8,6 +8,11 @@ const hobby = require('./modules/hobbies.js');
 
 hobby();
 
+// TERZO ESERCIZIO
+const people = require('./modules/people.js');
+
+people();
+
 
 
 
