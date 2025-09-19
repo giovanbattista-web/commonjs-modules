@@ -1,4 +1,4 @@
-esercizio di oggi: commonjs-modules
+Esercizio di oggi: commonjs-modules
 nome repo: commonjs-modules
 Lavoriamo con i moduli commonjs esportando e importando valori e funzioni. Segui questi tre step creando i rispettivi files:
 1 - names.js
